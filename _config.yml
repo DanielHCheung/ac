@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://avatars.githubusercontent.com/u/63193298?v=4"
+  avatar           : "/images/63193298.jpeg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "New York"
+  employer         : "Stony Brook University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "danielhcheung@outlook.com" 
 
   # Academic websites
   academia         : # URL
