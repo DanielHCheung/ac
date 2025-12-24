@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-* M.S. in Data Science, Stony Brook University, 2025
+* M.S. in Data Science, GPA 4.00/4, Stony Brook University, 2025-
 * B.S. in Statistics, GPA 3.94/4, Zhejiang Wanli University, 2020-2024
 
 <!-- 
@@ -33,14 +33,18 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
+ -->
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
+* Python, R, MATLAB
+  * Numpy, Pandas, Sklearn, Torch
+* Machine Learning Algorithms
+  <!-- * Sub-skill 2.1
   * Sub-skill 2.2
-  * Sub-skill 2.3
+  * Sub-skill 2.3 -->
 * Skill 3
+
+<!-- 
 
 Publications
 ======
