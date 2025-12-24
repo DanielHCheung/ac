@@ -29,7 +29,7 @@ author:
   bio              : "MS in Data Science"
   location         : "New York"
   employer         : "Stony Brook University"
-  uri              : "https://danieldata.com"
+  url              : "https://danieldata.com"
   email            : "danielhcheung@outlook.com" 
 
   # Academic websites
