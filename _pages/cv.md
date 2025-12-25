@@ -34,15 +34,12 @@ Work experience
   * Supervisor: Professor Git
   
  -->
+
 Skills
 ======
-
 * **Programming**: Python, R, MySQL, MATLAB, C++ (Exposure), PostgreSql(Exposure)
-
 * **ML \& Data Tools**: Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow
-
 * **DevOps / Deployment**: Docker, Linux, Azure, Google Cloud, FastAPI, Flask
-
 * **Core Skills**: Statistical Modeling, Time Series, Machine Learning, Data Processing, Microservices
 
 
