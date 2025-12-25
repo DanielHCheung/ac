@@ -36,13 +36,15 @@ Work experience
  -->
 Skills
 ======
-* Python, R, MATLAB
-  * Numpy, Pandas, Sklearn, Torch
-* Machine Learning Algorithms
-  <!-- * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3 -->
-* Skill 3
+
+* **Programming**: Python, R, MySQL, MATLAB, C++ (Exposure), PostgreSql(Exposure)
+
+* **ML \& Data Tools**: Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow
+
+* **DevOps / Deployment**: Docker, Linux, Azure, Google Cloud, FastAPI, Flask
+
+* **Core Skills**: Statistical Modeling, Time Series, Machine Learning, Data Processing, Microservices
+
 
 <!-- 
 
